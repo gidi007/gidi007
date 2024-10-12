@@ -52,14 +52,9 @@
 <div align="center">
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gidi007&hide_border=true&card_width=500&card_height=200&stroke=EB5454&fire=EB5454&border=095704DE&background=45%2C14B7CAB9%2CEB837C" alt="GitHub Streak" /></a>
   <br/><br/>
-  (https://github-readme-stats.vercel.app/api?username=gidi007)](https://github.com/gidi007/github-readme-stats)
-  <br/><br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-gidi007&layout=compact&theme=transparent" alt="Top Languages" />
-</div>
-
 
 ✨ Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=gidi007&theme=darkhub" /> </p>
 
 🔗 Connect with Me
 <p align="center"> <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a> <a href="mailto:your-email"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a> </p>
